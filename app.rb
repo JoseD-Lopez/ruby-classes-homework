@@ -11,7 +11,7 @@ equa = gets.chomp
 puts "please enter the first number of the equation"
 num1 = gets.chomp
 
-puts "please enter the first number of the equation"
+puts "please enter the second number of the equation"
 num2 = gets.chomp
 
 numerical2 = Calculator.new num1, num2
